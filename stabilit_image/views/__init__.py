@@ -1,0 +1,1 @@
+from .generate_image_view import GenerateImageView
